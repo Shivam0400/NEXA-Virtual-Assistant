@@ -18,15 +18,25 @@ NEXA is a virtual assistant built using **HTML, CSS, and JavaScript**. It provid
 
 ## 📂 Project Structure  
 📁 NEXA-Virtual-Assistant
+
 ├── 📜 index.html # Main interface 
+
 ├── 🎨 style.css # Styling file 
-├── 🎤 script.js # JavaScript functionality 
+
+├── 🎤 script.js # JavaScript functionality
+
 ├── 🖼️ logo.png # Application logo 
+
 ├── 🖼️ bg_img.jpg # Background image 
+
 ├── 🎵 mic.svg # Microphone icon 
+
 ├── 🎬 voice.gif # Animation for voice interaction 
+
 ├── 🎬 voice-2.gif # Alternate animation 
+
 ├── 🎬 a-2.gif # Additional assets 
+
 ├── 📜 README.md # Project documentation 
 
 ## 🔧 Setup & Usage  
